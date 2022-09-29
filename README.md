@@ -8,4 +8,4 @@ Time sequenced signals are converted into image spectrograms to convert the prob
 
 I designed an CNN model and trained the model with the images.
 
-See project report for details.
+See <kbd>[project report]([#the-url](https://github.com/UmayD/ECG-Classification/blob/main/ELEC447_BiomedicalProject.pdf))</kbd> for details.
